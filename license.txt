@@ -1,0 +1,11 @@
+Model Information:
+* title:	Troy Model 14th
+* source:	https://sketchfab.com/3d-models/troy-model-14th-ca5a7a6a5659478c8407070b1dfadea6
+* author:	TroyDCD (https://sketchfab.com/TroyDCD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Troy Model 14th" (https://sketchfab.com/3d-models/troy-model-14th-ca5a7a6a5659478c8407070b1dfadea6) by TroyDCD (https://sketchfab.com/TroyDCD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
